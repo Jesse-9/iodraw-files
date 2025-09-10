@@ -4,6 +4,193 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WBioNstqj4vcBtJMvKyP-252" value="开始认证流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-253" value="参数校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="341" y="189" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-254" value="创建 AuthManager 会话 - NewAuthManagerﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="374" width="257" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-255" value="认证失败，返回错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="348" y="2506" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-256" value="插入会话列表 - ListTailInsertﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="508" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-257" value="初始化会话密钥列表 - InitSessionKeyListﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="641" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-258" value="记录认证日志（匿名化敏感信息） - AUTH_LOGIﬂ°°40¶ßﬂ°°41¶ß + Anonymizeﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="181" y="775" width="258" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-259" value="认证请求管理 - AddAuthRequestﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="962" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-260" value="认证会话状态机启动 - auth_session_fsm.c" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="202" y="1095" width="215" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-261" value="接收设备ID - FSM_MSG_RECV_DEVICE_ID" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1211" width="258" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-262" value="认证超时/异常 - FSM_MSG_AUTH_TIMEOUT / FSM_MSG_AUTH_ERROR" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="309" y="2133" width="283" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-263" value="校验设备信息 - CompareConnInfoﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1520" width="260" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-264" value="认证数据交换 - FSM_MSG_RECV_AUTH_DATA" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1654" width="278" height="278" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-265" value="身份验证与密钥协商 - auth_hichain.c / auth_device_common_key.c" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="51" y="1982" width="253" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-266" value="认证结果判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="106" y="2202" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-267" value="保存会话密钥 - FSM_MSG_SAVE_SESSION_KEY" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2488" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-268" value="认证状态标记为通过 - hasAuthPassedﬂ°°91¶ßﬂ°°93¶ß = true" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="2622" width="251" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-269" value="分发/更新会话密钥 - DupSessionKeyListﬂ°°40¶ßﬂ°°41¶ß / DestroySessionKeyListﬂ°°40¶ßﬂ°°41¶ß" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="21" y="2756" width="258" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-270" value="认证完成，返回认证会话" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="32" y="2925" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-271" value="流程结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="248" y="3023" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-272" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-252" target="WBioNstqj4vcBtJMvKyP-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-273" value="合法" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-253" target="WBioNstqj4vcBtJMvKyP-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-274" value="非法" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.77;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-253" target="WBioNstqj4vcBtJMvKyP-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="338" />
+              <mxPoint x="627" y="2452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-275" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-254" target="WBioNstqj4vcBtJMvKyP-256">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-276" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-256" target="WBioNstqj4vcBtJMvKyP-257">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-277" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-257" target="WBioNstqj4vcBtJMvKyP-258">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-278" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-258" target="WBioNstqj4vcBtJMvKyP-259">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-279" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-259" target="WBioNstqj4vcBtJMvKyP-260">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-280" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-260" target="WBioNstqj4vcBtJMvKyP-261">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="178" y="1186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-281" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-260" target="WBioNstqj4vcBtJMvKyP-262">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="1186" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-282" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-261" target="WBioNstqj4vcBtJMvKyP-263">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-283" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-263" target="WBioNstqj4vcBtJMvKyP-264">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-284" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-264" target="WBioNstqj4vcBtJMvKyP-265">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-285" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-265" target="WBioNstqj4vcBtJMvKyP-266">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-286" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-266" target="WBioNstqj4vcBtJMvKyP-267">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-287" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-266" target="WBioNstqj4vcBtJMvKyP-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="2452" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-288" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-267" target="WBioNstqj4vcBtJMvKyP-268">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-289" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-268" target="WBioNstqj4vcBtJMvKyP-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-290" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-269" target="WBioNstqj4vcBtJMvKyP-270">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-291" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.06;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-255" target="WBioNstqj4vcBtJMvKyP-271">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="451" y="2998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-292" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0;entryY=0.11;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-270" target="WBioNstqj4vcBtJMvKyP-271">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="2998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBioNstqj4vcBtJMvKyP-293" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WBioNstqj4vcBtJMvKyP-262" target="WBioNstqj4vcBtJMvKyP-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
