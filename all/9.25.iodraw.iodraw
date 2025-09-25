@@ -19,7 +19,7 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-4" target="dHfuA7gsLpYxIQv5OWTD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-4" value="数据传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-4" value="任务状态传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-6" target="dHfuA7gsLpYxIQv5OWTD-11">
