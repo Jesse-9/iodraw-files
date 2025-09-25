@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2048" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,8 +59,8 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{suc-d} = $$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="658" width="120" height="30" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="658" width="970" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
