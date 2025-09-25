@@ -22,8 +22,14 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-4" value="数据传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-6" target="dHfuA7gsLpYxIQv5OWTD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-6" value="数据处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-8" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
