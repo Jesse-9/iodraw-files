@@ -25,6 +25,11 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-6" target="dHfuA7gsLpYxIQv5OWTD-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-10" value="考虑任务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHfuA7gsLpYxIQv5OWTD-9">
+          <mxGeometry x="0.0083" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-6" value="数据处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="494" y="420" width="120" height="60" as="geometry" />
         </mxCell>
