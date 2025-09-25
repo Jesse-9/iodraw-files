@@ -57,7 +57,7 @@
           <mxGeometry x="494" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="230" width="570" height="30" as="geometry" />
+          <mxGeometry x="60" y="230" width="570" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
