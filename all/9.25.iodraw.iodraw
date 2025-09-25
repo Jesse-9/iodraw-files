@@ -42,6 +42,9 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-13" value="后续数据传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="68" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
