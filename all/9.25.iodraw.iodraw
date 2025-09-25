@@ -16,7 +16,7 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-2" value="连接（发现、连接、组网、传输）设备（用于任务卸载或上层决策）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-4" target="dHfuA7gsLpYxIQv5OWTD-6">
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-4" target="dHfuA7gsLpYxIQv5OWTD-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-4" value="任务状态传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -44,6 +44,9 @@
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" vertex="1" parent="1">
           <mxGeometry x="312" y="790" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-18" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
