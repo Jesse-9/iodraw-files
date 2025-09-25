@@ -65,8 +65,8 @@
         <mxCell id="NucqpFVwoEfDSNKtcynk-3" value="$$T_{exec} = \begin{cases} T_{D}, \text{ device} \\T_{E}, \text{ cloudlet} \\ T_{C}, \text{ cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="705" width="590" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="625" y="568" width="50" height="30" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="565" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
