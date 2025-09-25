@@ -59,8 +59,8 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="570" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="285" y="658" width="50" height="30" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{suc-d}=$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="658" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
