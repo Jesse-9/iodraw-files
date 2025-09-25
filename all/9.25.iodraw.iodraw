@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-6" value="排队" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-11" target="dHfuA7gsLpYxIQv5OWTD-13">
           <mxGeometry relative="1" as="geometry" />
@@ -37,10 +37,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-11" value="任务执行" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="494" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-13" value="后续数据传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" vertex="1" parent="1">
           <mxGeometry x="312" y="790" width="68" height="48" as="geometry" />
