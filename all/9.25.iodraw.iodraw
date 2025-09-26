@@ -141,7 +141,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-99" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-83" target="-snETmQAutV4JDNiThqz-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-83" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-83" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-216" y="1401" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-89" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-84" target="-snETmQAutV4JDNiThqz-83">
@@ -150,13 +150,13 @@
         <mxCell id="-snETmQAutV4JDNiThqz-93" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-84" target="-snETmQAutV4JDNiThqz-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-84" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.gamepad;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-84" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.gamepad;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-391" y="1475" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-85" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.copier;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-1" y="1466" width="100" height="100" as="geometry" />
+        <mxCell id="-snETmQAutV4JDNiThqz-85" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.copier;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="1466" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-86" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-86" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.usb_stick;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1640" width="45" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-96" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-87" target="-snETmQAutV4JDNiThqz-86">
@@ -165,7 +165,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-97" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-87" target="-snETmQAutV4JDNiThqz-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-87" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-87" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-98" y="1640" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-90" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-83" target="-snETmQAutV4JDNiThqz-85">
