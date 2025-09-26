@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" parent="1" vertex="1">
-          <mxGeometry x="480" y="840" width="68" height="48" as="geometry" />
+          <mxGeometry x="700" y="555" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-300" y="240" width="570" height="30" as="geometry" />
@@ -19,7 +19,7 @@
           <mxGeometry x="-165" y="795" width="1000" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-3" value="$$T_{exec} = \begin{cases} T_{D}, \text{ device} \\T_{E}, \text{ cloudlet} \\ T_{C}, \text{ cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="10" y="655" width="590" height="30" as="geometry" />
+          <mxGeometry x="20" y="655" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="555" width="90" height="30" as="geometry" />
