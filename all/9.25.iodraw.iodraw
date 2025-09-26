@@ -186,8 +186,8 @@
         <mxCell id="-snETmQAutV4JDNiThqz-101" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="146.99662597656248" y="1639.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-102" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;Dsoftbus&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-377" y="1397" width="92" height="32" as="geometry" />
+        <mxCell id="-snETmQAutV4JDNiThqz-102" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Dsoftbus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-203" y="1551" width="81" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
