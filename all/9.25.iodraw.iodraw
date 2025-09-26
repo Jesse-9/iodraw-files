@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" parent="1" vertex="1">
-          <mxGeometry x="147" y="1101" width="68" height="48" as="geometry" />
+          <mxGeometry x="95" y="1064.29" width="120" height="84.71" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="379" y="187" width="570" height="30" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry x="235" y="125" width="152" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-53" value="Cloudlet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="211" y="1112" width="62" height="26" as="geometry" />
+          <mxGeometry x="218" y="1112" width="62" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
