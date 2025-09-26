@@ -68,7 +68,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-43" value="考虑任务依赖关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="-snETmQAutV4JDNiThqz-39">
+        <mxCell id="-snETmQAutV4JDNiThqz-43" value="考虑任务依赖关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#000000;" vertex="1" connectable="0" parent="-snETmQAutV4JDNiThqz-39">
           <mxGeometry x="-0.1833" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="7" as="offset" />
           </mxGeometry>
