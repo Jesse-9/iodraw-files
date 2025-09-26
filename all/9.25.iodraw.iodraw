@@ -9,9 +9,6 @@
             <mxPoint x="554" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_ecosystem/Azure_Hybrid_Center.svg;" parent="1" vertex="1">
-          <mxGeometry x="95" y="1064.29" width="120" height="84.71" as="geometry" />
-        </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="379" y="187" width="570" height="30" as="geometry" />
         </mxCell>
