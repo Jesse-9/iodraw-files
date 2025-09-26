@@ -91,10 +91,10 @@
           <mxGeometry x="-61.0033740234375" y="1104.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-63" value="" style="html=1;outlineConnect=0;fillColor=#3399FF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="1150" width="90" height="50" as="geometry" />
+          <mxGeometry x="136" y="1150" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-64" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236.99662597656248" y="1166.9966259765624" width="60" height="30" as="geometry" />
+          <mxGeometry x="231.99662597656248" y="1163.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-67" value="" style="html=1;outlineConnect=0;fillColor=#3399FF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="17" y="1278" width="90" height="50" as="geometry" />
@@ -113,6 +113,13 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-21" y="1210" as="sourcePoint" />
             <mxPoint x="50" y="1299" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=1;shape=flexArrow;strokeColor=#3399FF;exitX=0.91;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#33CCFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-67" target="-snETmQAutV4JDNiThqz-63">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="16" y="1185" as="sourcePoint" />
+            <mxPoint x="159" y="1185" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
