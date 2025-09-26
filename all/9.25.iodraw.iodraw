@@ -306,7 +306,7 @@
           <mxGeometry x="20" y="1865" width="132" height="32" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-176" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;rounded=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="326" y="1477" width="20" height="627" as="geometry" />
+          <mxGeometry x="324" y="1352" width="20" height="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
