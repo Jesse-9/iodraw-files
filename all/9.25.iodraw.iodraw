@@ -25,7 +25,7 @@
           <mxGeometry x="230" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="450" width="830" height="30" as="geometry" />
+          <mxGeometry x="-80" y="435" width="830" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="400" height="60" as="geometry" />
@@ -62,7 +62,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-34" target="-snETmQAutV4JDNiThqz-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-34" value="排队" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-34" value="任务排队" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="94" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
