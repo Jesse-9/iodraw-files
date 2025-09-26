@@ -74,14 +74,11 @@
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="500" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dHfuA7gsLpYxIQv5OWTD-1" target="dHfuA7gsLpYxIQv5OWTD-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="214" y="310" as="sourcePoint" />
-            <mxPoint x="294" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="154" y="450" />
-              <mxPoint x="354" y="450" />
-            </Array>
+        <mxCell id="-snETmQAutV4JDNiThqz-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="120" y="420" as="sourcePoint" />
+            <mxPoint x="220" y="420" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
