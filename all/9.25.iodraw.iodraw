@@ -112,13 +112,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-76" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=1;shape=flexArrow;strokeColor=#3399FF;exitX=0.91;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#33CCFF;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-67" target="-snETmQAutV4JDNiThqz-63">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1" y="1023" as="sourcePoint" />
-            <mxPoint x="144" y="1023" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-77" value="Dsoftbus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="138" y="1101" width="65" height="26" as="geometry" />
         </mxCell>
@@ -323,6 +316,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="2007" as="sourcePoint" />
             <mxPoint x="277" y="2007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-191" value="" style="strokeColor=#6881B3;edgeStyle=none;rounded=0;endArrow=none;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="386.9985714285711" y="1851" as="sourcePoint" />
+            <mxPoint x="306.57" y="1851" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
