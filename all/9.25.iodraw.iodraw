@@ -299,8 +299,8 @@
         <mxCell id="-snETmQAutV4JDNiThqz-173" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Freezer_Monitor.svg;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1955" width="47.599999999999994" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-174" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;分布式软总线&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1401" width="132" height="32" as="geometry" />
+        <mxCell id="-snETmQAutV4JDNiThqz-174" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分布式软总线&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1401" width="146" height="32" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-175" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;分布式软总线&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="20" y="1865" width="147" height="32" as="geometry" />
