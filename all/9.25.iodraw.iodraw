@@ -327,7 +327,7 @@
             <mxPoint x="307.43" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-194" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-194" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="398.6666259765625" y="2.66668701171875" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
