@@ -30,18 +30,18 @@
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-40" target="-snETmQAutV4JDNiThqz-23">
+        <mxCell id="-snETmQAutV4JDNiThqz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-40" target="-snETmQAutV4JDNiThqz-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="154" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-23" target="-snETmQAutV4JDNiThqz-25">
+        <mxCell id="-snETmQAutV4JDNiThqz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-23" target="-snETmQAutV4JDNiThqz-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-23" value="设备连接&lt;div&gt;Connect Devices&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="232" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-25" target="-snETmQAutV4JDNiThqz-31">
+        <mxCell id="-snETmQAutV4JDNiThqz-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-25" target="-snETmQAutV4JDNiThqz-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-33" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 12px;&quot;&gt;决策和调度&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="-snETmQAutV4JDNiThqz-32">
@@ -52,19 +52,19 @@
         <mxCell id="-snETmQAutV4JDNiThqz-25" value="&lt;span style=&quot;font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;任务状态传输&lt;/span&gt;&lt;div&gt;Transmit WAs&#39; Info&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-10" y="338" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-31" target="-snETmQAutV4JDNiThqz-34">
+        <mxCell id="-snETmQAutV4JDNiThqz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-31" target="-snETmQAutV4JDNiThqz-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-31" value="任务数据传输&lt;div&gt;Transmit WAs&#39; data&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="445" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-34" target="-snETmQAutV4JDNiThqz-36">
+        <mxCell id="-snETmQAutV4JDNiThqz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-34" target="-snETmQAutV4JDNiThqz-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-34" value="任务排队&lt;div&gt;Queue For Execute&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="552" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
+        <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=open;endFill=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-43" value="考虑任务依赖关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=12;fontStyle=1;fontColor=#000000;" vertex="1" connectable="0" parent="-snETmQAutV4JDNiThqz-39">
