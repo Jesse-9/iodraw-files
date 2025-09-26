@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="2021" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1621" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,9 +132,6 @@
         <mxCell id="-snETmQAutV4JDNiThqz-79" value="Dsoftbus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-48" y="1252" width="65" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-82" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-417" y="972.5" width="319" height="316.5" as="geometry" />
-        </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-91" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-83" target="-snETmQAutV4JDNiThqz-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -188,6 +185,9 @@
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-103" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=none;noLabel=1;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-85" target="-snETmQAutV4JDNiThqz-84">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-106" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="246" y="1498.3333740234375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
