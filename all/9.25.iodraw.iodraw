@@ -12,8 +12,8 @@
             <mxPoint x="554" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="290" y="188" width="750" height="31" as="geometry" />
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="281" y="188" width="768" height="31" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="736" width="1317" height="31" as="geometry" />
