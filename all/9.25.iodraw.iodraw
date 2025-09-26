@@ -138,6 +138,9 @@
         <mxCell id="-snETmQAutV4JDNiThqz-83" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-216" y="1401" width="100" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-84" target="-snETmQAutV4JDNiThqz-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-84" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.gamepad;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-391" y="1475" width="100" height="70" as="geometry" />
         </mxCell>
