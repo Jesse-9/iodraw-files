@@ -109,8 +109,14 @@
         <mxCell id="-snETmQAutV4JDNiThqz-34" value="排队" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="894" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-36" value="任务执行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1094" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-38" value="后续数据传输" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1294" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
