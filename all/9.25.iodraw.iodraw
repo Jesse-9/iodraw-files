@@ -330,6 +330,14 @@
         <mxCell id="-snETmQAutV4JDNiThqz-194" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="398.6666259765625" y="2.66668701171875" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;dashed=1;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" target="-snETmQAutV4JDNiThqz-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="165" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-196" value="参考JCR（WAs）" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#FF9933;strokeColor=#3399FF;fontColor=#ffffff;rounded=1;fillStyle=auto;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="135" width="152" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
