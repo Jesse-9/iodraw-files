@@ -16,10 +16,10 @@
           <mxGeometry x="-300" y="240" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="795" width="1000" height="30" as="geometry" />
+          <mxGeometry x="-165" y="795" width="1000" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-3" value="$$T_{exec} = \begin{cases} T_{D}, \text{ device} \\T_{E}, \text{ cloudlet} \\ T_{C}, \text{ cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="655" width="590" height="30" as="geometry" />
+          <mxGeometry x="10" y="655" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="565" width="90" height="30" as="geometry" />
