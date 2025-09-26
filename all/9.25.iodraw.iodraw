@@ -74,6 +74,9 @@
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="500" width="400" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
