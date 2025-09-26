@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-87" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#99CCFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-107" y="1643" width="50" height="100" as="geometry" />
+          <mxGeometry x="-92" y="1640" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-90" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-83" target="-snETmQAutV4JDNiThqz-85">
           <mxGeometry relative="1" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-100" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#99CCFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="1522" width="90" height="100" as="geometry" />
+          <mxGeometry x="128" y="1543" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-101" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="146.99662597656248" y="1639.9966259765624" width="60" height="30" as="geometry" />
