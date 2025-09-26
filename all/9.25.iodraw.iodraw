@@ -338,7 +338,7 @@
             <mxPoint x="173" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-203" value="包括发现、连接、组网，状态保持" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#CCCCCC;strokeColor=#3399FF;fontColor=#ffffff;rounded=1;fillStyle=auto;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeWidth=1;flipV=0;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-203" value="用于决策和调度" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#CCCCCC;strokeColor=#3399FF;fontColor=#ffffff;rounded=1;fillStyle=auto;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeWidth=1;flipV=0;" vertex="1" parent="1">
           <mxGeometry x="232" y="338" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
