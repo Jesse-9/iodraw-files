@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-snETmQAutV4JDNiThqz-142" value="" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;dashed=1;dashPattern=8 8;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1363" width="675" height="403" as="geometry" />
+          <mxGeometry x="-440" y="1363" width="650" height="403" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dHfuA7gsLpYxIQv5OWTD-18" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -187,9 +187,6 @@
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-100" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#99CCFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="1612" width="90" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-102" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Dsoftbus&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="92" y="1393" width="81" height="31" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-103" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=none;noLabel=1;dashed=1;endArrow=none;endFill=0;strokeColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-85" target="-snETmQAutV4JDNiThqz-84">
           <mxGeometry relative="1" as="geometry" />
