@@ -12,23 +12,23 @@
             <mxPoint x="554" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="281" y="188" width="768" height="31" as="geometry" />
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="330" y="191" width="674" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="20" y="736" width="1317" height="31" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="103" y="739" width="1155" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-3" value="$$T_{exec} = \begin{cases} T_{D}, \text{ device} \\T_{E}, \text{ cloudlet} \\ T_{C}, \text{ cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="269" y="596" width="778" height="31" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-3" value="$$T_{exec} = \begin{cases} T_{D}, \text{ device} \\T_{E}, \text{ cloudlet} \\ T_{C}, \text{ cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="317" y="599" width="683" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="562" y="496" width="110" height="31" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="569" y="499" width="98" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="118" y="401" width="1099" height="31" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="187" y="404" width="963" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="488" y="256" width="526" height="70" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="520" y="261" width="463" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3399FF;arcSize=20;endWidth=20;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-40" target="-snETmQAutV4JDNiThqz-23">
           <mxGeometry relative="1" as="geometry">
