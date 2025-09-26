@@ -63,7 +63,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-34" value="排队" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="94" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="94" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-36" target="-snETmQAutV4JDNiThqz-38">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-36" value="任务执行" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="94" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="94" y="625" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-38" value="后续数据传输" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="94" y="760" width="120" height="60" as="geometry" />
