@@ -338,6 +338,14 @@
         <mxCell id="-snETmQAutV4JDNiThqz-196" value="包括发现、连接、组网，状态保持" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#FF9933;strokeColor=#3399FF;fontColor=#ffffff;rounded=1;fillStyle=auto;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="232" width="152" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;dashed=1;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="-snETmQAutV4JDNiThqz-201" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="272" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-201" value="包括发现、连接、组网，状态保持" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#FF9933;strokeColor=#3399FF;fontColor=#ffffff;rounded=1;fillStyle=auto;labelBackgroundColor=none;fontStyle=1;dashed=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="242" width="152" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
