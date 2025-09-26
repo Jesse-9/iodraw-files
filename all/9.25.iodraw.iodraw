@@ -102,7 +102,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-68" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="177.99662597656248" y="1321.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-71" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.26;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-56" target="-snETmQAutV4JDNiThqz-67">
+        <mxCell id="-snETmQAutV4JDNiThqz-71" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.26;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=4;shape=flexArrow;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-56" target="-snETmQAutV4JDNiThqz-67">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="386.6666259765625" y="1433.6666259765625" as="sourcePoint" />
             <mxPoint x="466.6666259765625" y="1433.6666259765625" as="targetPoint" />
