@@ -123,6 +123,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-77" value="Dsoftbus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="149" y="1250" width="65" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-78" value="Dsoftbus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="1260" width="65" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
