@@ -24,8 +24,8 @@
         <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="569" y="499" width="98" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="187" y="404" width="963" height="29" as="geometry" />
+        <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud}&amp;nbsp;&amp;nbsp;\\ T_{E-E}, \text{ edge - edge}&amp;nbsp;&amp;nbsp;\end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="90" y="404" width="1158" height="29" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C，边边传统方式，不如直接通过网络连接&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="520" y="261" width="463" height="62" as="geometry" />
