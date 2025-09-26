@@ -100,17 +100,10 @@
           <mxGeometry x="216.99662597656248" y="1001.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-67" value="" style="html=1;outlineConnect=0;fillColor=#33CCFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="13" y="1119" width="90" height="50" as="geometry" />
+          <mxGeometry x="397" y="1757.5" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-68" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="27.996625976562484" y="1181.9966259765624" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-71" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;entryX=0.26;entryY=0.22;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=1;shape=flexArrow;strokeColor=#3399FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#33CCFF;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-56" target="-snETmQAutV4JDNiThqz-67">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-15" y="1051" as="sourcePoint" />
-            <mxPoint x="451.6666259765625" y="1271.6666259765625" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-74" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeWidth=1;shape=flexArrow;strokeColor=#3399FF;exitX=0.91;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#33CCFF;entryX=0.06;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-56" target="-snETmQAutV4JDNiThqz-63">
           <mxGeometry width="80" relative="1" as="geometry">
