@@ -13,7 +13,7 @@
           <mxGeometry x="700" y="555" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-24" value="$$T_{conn} = \begin{cases} T_{D-D}, \text{ device-device} \\ T_{D-E}, \text{ device-edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="240" width="570" height="30" as="geometry" />
+          <mxGeometry x="50" y="232" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-1" value="$$T_{succ} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \\ T_{E-E}, \text{ edge - edge} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-165" y="795" width="1000" height="30" as="geometry" />
@@ -25,7 +25,7 @@
           <mxGeometry x="230" y="555" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="435" width="830" height="30" as="geometry" />
+          <mxGeometry x="-70" y="440" width="830" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-9" value="会不会有E-E和D-C&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;为什么要把succ和tran分别拿出来，他们的意义分别是什么，能不能合并&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="260" width="400" height="60" as="geometry" />
@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-43" value="考虑任务依赖关系" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=12;fontStyle=1;fontColor=#000000;" vertex="1" connectable="0" parent="-snETmQAutV4JDNiThqz-39">
           <mxGeometry x="-0.1833" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="5" as="offset" />
+            <mxPoint x="-59" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-36" value="任务执行" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
