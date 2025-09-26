@@ -90,13 +90,13 @@
         <mxCell id="-snETmQAutV4JDNiThqz-58" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="41.9966259765625" y="1161.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-63" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-63" value="" style="html=1;outlineConnect=0;fillColor=#3399FF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="194" y="1145" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-64" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="286.9966259765625" y="1161.9966259765624" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-67" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-67" value="" style="html=1;outlineConnect=0;fillColor=#3399FF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="82" y="1282" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-68" value="&lt;b&gt;cloudlet&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
