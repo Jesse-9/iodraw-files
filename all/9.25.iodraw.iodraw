@@ -296,7 +296,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-172" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Meter.svg;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="1772" width="68" height="68" as="geometry" />
+          <mxGeometry x="-182" y="1877" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-173" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Freezer_Monitor.svg;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-102" y="1772" width="47.599999999999994" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
