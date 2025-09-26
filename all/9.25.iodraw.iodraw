@@ -66,7 +66,7 @@
           <mxGeometry x="400" y="705" width="590" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-4" value="$$T_{que}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="565" width="90" height="30" as="geometry" />
+          <mxGeometry x="610" y="565" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NucqpFVwoEfDSNKtcynk-8" value="$$T_{tran} = \begin{cases} 0, \text{ local} \\T_{D-D}, \text{ device - device} \\ T_{D-E}, \text{ device - edge} \\ T_{D-C}, \text{ device - cloud} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="435" width="830" height="30" as="geometry" />
