@@ -181,7 +181,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-100" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="1353" width="90" height="100" as="geometry" />
+          <mxGeometry x="136" y="1496" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
