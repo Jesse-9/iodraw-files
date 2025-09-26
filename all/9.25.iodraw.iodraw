@@ -39,7 +39,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-23" target="-snETmQAutV4JDNiThqz-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-23" value="设备连接" style="whiteSpace=wrap;html=1;rounded=1;fontColor=default;labelBackgroundColor=#DAE8FC;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-23" value="设备连接" style="whiteSpace=wrap;html=1;rounded=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="94" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-25" target="-snETmQAutV4JDNiThqz-31">
