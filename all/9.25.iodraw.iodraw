@@ -75,7 +75,7 @@
         <mxCell id="-snETmQAutV4JDNiThqz-36" value="任务执行&lt;div&gt;Execute Tasks&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="658" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-38" value="后续数据传输&lt;div&gt;Data For Successor&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="-snETmQAutV4JDNiThqz-38" value="后续数据传输&lt;div&gt;Data For Successor&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#3399FF;strokeColor=#6c8ebf;fontSize=16;fontStyle=1;fontColor=#FFFFFF;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="658" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;dashed=1;strokeWidth=2;endArrow=block;endFill=1;" edge="1" parent="1" source="-snETmQAutV4JDNiThqz-40" target="-snETmQAutV4JDNiThqz-49">
