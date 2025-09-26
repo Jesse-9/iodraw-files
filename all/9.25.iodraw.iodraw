@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-snETmQAutV4JDNiThqz-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-424" y="1369" width="623" height="391" as="geometry" />
-        </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="dHfuA7gsLpYxIQv5OWTD-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="554" y="340" as="sourcePoint" />
@@ -273,6 +270,13 @@
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-135" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#99CCFF;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-311" y="2075" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-snETmQAutV4JDNiThqz-136" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-79" y="1750" as="sourcePoint" />
+            <mxPoint x="1" y="1750" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
