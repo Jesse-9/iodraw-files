@@ -16,8 +16,11 @@
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-2" value="连接（发现、连接、组网、传输）设备（用于任务卸载或上层决策）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dHfuA7gsLpYxIQv5OWTD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dHfuA7gsLpYxIQv5OWTD-4" target="dHfuA7gsLpYxIQv5OWTD-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dHfuA7gsLpYxIQv5OWTD-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="654.5" y="140" as="sourcePoint" />
+            <mxPoint x="654.5" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dHfuA7gsLpYxIQv5OWTD-22" value="决策和调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dHfuA7gsLpYxIQv5OWTD-19" vertex="1" connectable="0">
           <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
