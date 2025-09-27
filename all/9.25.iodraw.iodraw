@@ -429,9 +429,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-48" value="HTTP等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix6tZ7lQP1xrycCNVMWB-47">
-          <mxGeometry x="0.3767" y="-3" relative="1" as="geometry">
-            <mxPoint x="-4" y="-3" as="offset" />
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-49" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#CCCCCC;strokeWidth=2;dashed=1;exitX=0.695;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ix6tZ7lQP1xrycCNVMWB-44">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-73" y="2782" as="sourcePoint" />
+            <mxPoint x="133" y="2664" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
