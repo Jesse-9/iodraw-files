@@ -431,7 +431,10 @@
           <mxGeometry x="-24.5" y="2401" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-22" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="1865" width="100" height="70" as="geometry" />
+          <mxGeometry x="-40" y="2583" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-23" value="分布式控制器" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-237.3333740234375" y="2678" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
