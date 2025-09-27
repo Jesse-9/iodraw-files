@@ -359,27 +359,6 @@
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_PLC.svg;" vertex="1" parent="1">
           <mxGeometry x="-69" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-3">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-268.3333740234375" y="2708" as="sourcePoint" />
-            <mxPoint x="-175.4751304347826" y="2754" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-8" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-2">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-158.3333740234375" y="2653" as="sourcePoint" />
-            <mxPoint x="-155.82608695652175" y="2754" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-4">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="7.6666259765625" y="2694" as="sourcePoint" />
-            <mxPoint x="-134.391304347826" y="2754" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-5">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="88.6666259765625" y="2688" as="sourcePoint" />
