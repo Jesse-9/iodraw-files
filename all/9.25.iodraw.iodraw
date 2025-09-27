@@ -388,7 +388,7 @@
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-43" value="BLE、Wi-Fi等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix6tZ7lQP1xrycCNVMWB-30">
           <mxGeometry x="0.3767" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-31" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#99CCFF;strokeWidth=1;dashed=1;" vertex="1" parent="1">
@@ -406,6 +406,9 @@
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HarmonyOS DsoftBus&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-304" y="2551" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-44" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-206" y="1411" width="100" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
