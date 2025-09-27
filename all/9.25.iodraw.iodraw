@@ -407,7 +407,7 @@
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HarmonyOS DsoftBus&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-304" y="2551" width="73" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-44" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-44" value="PC" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="99" y="2788" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-21" target="ix6tZ7lQP1xrycCNVMWB-44">
@@ -418,6 +418,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-46" value="HTTP等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix6tZ7lQP1xrycCNVMWB-45">
+          <mxGeometry x="0.3767" y="-3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-47" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" target="ix6tZ7lQP1xrycCNVMWB-25">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-36" y="2669" as="sourcePoint" />
+            <mxPoint x="125" y="2798" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-48" value="HTTP等" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ix6tZ7lQP1xrycCNVMWB-47">
           <mxGeometry x="0.3767" y="-3" relative="1" as="geometry">
             <mxPoint x="-4" y="-3" as="offset" />
           </mxGeometry>
