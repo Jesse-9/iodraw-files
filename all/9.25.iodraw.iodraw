@@ -356,25 +356,22 @@
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_PLC.svg;" vertex="1" parent="1">
           <mxGeometry x="-69" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" target="ix6tZ7lQP1xrycCNVMWB-27">
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-183" y="2763" as="sourcePoint" />
-            <mxPoint x="-111.77391304347816" y="2754" as="targetPoint" />
+            <mxPoint x="-228.62548780487805" y="2666" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-24" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1" target="ix6tZ7lQP1xrycCNVMWB-27">
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-24" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-93" y="2640" as="sourcePoint" />
-            <mxPoint x="-127.26984126984121" y="2686" as="targetPoint" />
+            <mxPoint x="-203.71000000000004" y="2640" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-25" value="ios" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="123" y="2593" width="47" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-27" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-273" y="2614" width="74.29" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-30" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="ix6tZ7lQP1xrycCNVMWB-25">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -432,6 +429,12 @@
             <mxPoint x="133" y="2664" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-51" value="HarmonyOS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-202" y="2532" width="47" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-52" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tablet;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="2614" width="74.29" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
