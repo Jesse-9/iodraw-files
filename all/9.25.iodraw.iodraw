@@ -342,13 +342,13 @@
           <mxGeometry x="232" y="338" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Scale_System.svg;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="2884" width="68" height="68" as="geometry" />
+          <mxGeometry x="-211" y="2834" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
           <mxGeometry x="-276" y="2801" width="51.080000000000005" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Programable_Board.svg;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="2801" width="68" height="68" as="geometry" />
+          <mxGeometry x="-125" y="2834" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
