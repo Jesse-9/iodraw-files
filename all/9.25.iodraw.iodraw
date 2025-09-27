@@ -433,9 +433,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-50" value="HarmonyOS" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#3DDFFF;strokeColor=default;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-93" y="2593" width="47" height="94" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
