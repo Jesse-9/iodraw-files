@@ -462,7 +462,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-41" value="DsoftBus" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HarmonyOS DsoftBus&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-308.00337402343746" y="2544" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
