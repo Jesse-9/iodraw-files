@@ -351,7 +351,10 @@
           <mxGeometry x="-145.5" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_PLC.svg;" vertex="1" parent="1">
-          <mxGeometry x="52" y="2790" width="68" height="68" as="geometry" />
+          <mxGeometry x="-69" y="2801" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Distributer_Control_System.svg;" vertex="1" parent="1">
+          <mxGeometry x="-178" y="2686" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
