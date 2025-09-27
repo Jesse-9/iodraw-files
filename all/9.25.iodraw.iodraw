@@ -350,6 +350,9 @@
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
           <mxGeometry x="-314" y="2796" width="51.080000000000005" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Programable_Board.svg;" vertex="1" parent="1">
+          <mxGeometry x="-166" y="2805" width="68" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
