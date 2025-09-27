@@ -476,7 +476,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ix6tZ7lQP1xrycCNVMWB-37" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.153;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#F70000;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-25" target="ix6tZ7lQP1xrycCNVMWB-35">
+        <mxCell id="ix6tZ7lQP1xrycCNVMWB-37" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.153;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#CCCCCC;dashed=1;" edge="1" parent="1" source="ix6tZ7lQP1xrycCNVMWB-25" target="ix6tZ7lQP1xrycCNVMWB-35">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-99" y="2640" as="sourcePoint" />
             <mxPoint x="-3" y="2784" as="targetPoint" />
