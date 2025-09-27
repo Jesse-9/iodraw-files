@@ -382,16 +382,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-12" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Scale_System.svg;" vertex="1" parent="1">
-          <mxGeometry x="103" y="2801" width="68" height="68" as="geometry" />
+          <mxGeometry x="126.5" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
-          <mxGeometry x="45" y="2801" width="51.080000000000005" height="68" as="geometry" />
+          <mxGeometry x="68.5" y="2801" width="51.080000000000005" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Programable_Board.svg;" vertex="1" parent="1">
-          <mxGeometry x="175.5" y="2801" width="68" height="68" as="geometry" />
+          <mxGeometry x="199" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_PLC.svg;" vertex="1" parent="1">
-          <mxGeometry x="252" y="2801" width="68" height="68" as="geometry" />
+          <mxGeometry x="275.5" y="2801" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-17" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#99CCFF;strokeWidth=2;dashed=1;" edge="1" source="ix6tZ7lQP1xrycCNVMWB-13" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -464,10 +464,10 @@
           <mxGeometry x="-308.0033740234375" y="2778" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-34" value="Scenario 1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="31.996625976562484" y="2778" width="60" height="30" as="geometry" />
+          <mxGeometry x="283.4966259765625" y="2591" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ix6tZ7lQP1xrycCNVMWB-35" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=#99CCFF;strokeWidth=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="25.5" y="2775" width="333" height="120" as="geometry" />
+          <mxGeometry x="393" y="2576" width="333" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
