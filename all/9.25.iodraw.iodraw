@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="2362" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2362" dy="1709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,10 +437,10 @@
           <mxGeometry x="-107" y="2611" width="74.29" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$T_{connection} = T_{disc} + T_{link} + T_{auth} + T_{session}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-28" y="-361" width="722" height="41" as="geometry" />
+          <mxGeometry x="-18.92" y="-427" width="722" height="41" as="geometry" />
         </mxCell>
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$T_{steady}(m) = T_{queue} + T_{frag(m)} + T_{mac} + T_{ack} + T_{retx}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-44" y="-293" width="844" height="41" as="geometry" />
+          <mxGeometry x="-48" y="-359" width="844" height="41" as="geometry" />
         </mxCell>
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-3" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;总计算公式&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-208" width="992" height="30" as="geometry" />
