@@ -445,6 +445,9 @@
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-3" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;总计算公式&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-208" width="992" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f-_YpfZd2k_d-QcR-2NW-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-373" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
