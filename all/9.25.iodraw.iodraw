@@ -448,8 +448,11 @@
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-4" value="定义设备间的三种状态：cold，warm，hot&lt;div&gt;其中cold需要完成Tconnection中的所有阶段，&lt;/div&gt;&lt;div&gt;warm状态Tdisc≈0，Tauth接近于0，如果设备不休眠Tlink=0&lt;/div&gt;&lt;div&gt;hot状态Tcon都为0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="681" y="-395" width="332" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="f-_YpfZd2k_d-QcR-2NW-5" value="定义设备间的三种状态：cold，warm，hot&lt;div&gt;其中cold需要完成Tconnection中的所有阶段，&lt;/div&gt;&lt;div&gt;warm状态Tdisc≈0，Tauth接近于0，如果设备不休眠Tlink=0&lt;/div&gt;&lt;div&gt;hot状态Tcon都为0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="668" y="-269" width="332" height="70" as="geometry" />
+        <mxCell id="f-_YpfZd2k_d-QcR-2NW-5" value="Tdisc分为两种设备连接计算，一种以会和为基础，一种直接发现（已知地址）&lt;div&gt;Tdis = 0.5 * channal cycle&lt;/div&gt;&lt;div&gt;T_disc ≈ 0.5·T_queryInterval + RTT_discovery&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="-261" width="431" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="f-_YpfZd2k_d-QcR-2NW-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="764" y="-137" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
