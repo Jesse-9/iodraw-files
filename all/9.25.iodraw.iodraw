@@ -325,8 +325,8 @@
             <mxPoint x="307.43" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-snETmQAutV4JDNiThqz-194" value="$$T_{total} = T_{conn} + T_{tran} + T_{que} + T_{exe} + T_{succ}$$&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;总计算公式&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-165" y="64" width="992" height="30" as="geometry" />
+        <mxCell id="-snETmQAutV4JDNiThqz-194" value="$$T_{total} = T_{conn} + T_{steady(m)} + T_{exe}$$&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;总计算公式&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="-174" y="-98" width="992" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-snETmQAutV4JDNiThqz-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;dashed=1;strokeWidth=2;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="-snETmQAutV4JDNiThqz-23" target="-snETmQAutV4JDNiThqz-196" edge="1">
           <mxGeometry relative="1" as="geometry">
