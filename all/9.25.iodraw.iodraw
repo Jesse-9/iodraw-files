@@ -467,7 +467,10 @@
           <mxGeometry x="-224.92000000000002" y="4289" width="68" height="52.88" as="geometry" />
         </mxCell>
         <mxCell id="Yx-VxaEQITDQ9WI9b41O-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=10;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
-          <mxGeometry x="-221" y="3041" width="105" height="105" as="geometry" />
+          <mxGeometry x="-257" y="3097" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Yx-VxaEQITDQ9WI9b41O-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="3110" width="51.080000000000005" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
