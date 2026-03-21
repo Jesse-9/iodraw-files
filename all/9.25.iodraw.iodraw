@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="3976" dy="3028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2388" dy="1914" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,6 +453,9 @@
         </mxCell>
         <mxCell id="f-_YpfZd2k_d-QcR-2NW-6" value="&lt;div&gt;&lt;div&gt;T_link = T_attach + T_linkParams + T_addrConfig&lt;/div&gt;&lt;div&gt;- **T_attach**: PHY/link association (examples)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - BR paging&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - BLE CONNECT_REQ to first connection event&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - Wi‑Fi Direct: P2P GO negotiation + WPS association&lt;/div&gt;&lt;div&gt;- **T_linkParams**: Negotiations impacting link timing&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - Connection interval, supervision timeout (BLE)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - Role selection, channel, bitrate, encryption on link (BR/Wi‑Fi)&lt;/div&gt;&lt;div&gt;- **T_addrConfig**: Network layer readiness&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - DHCP/IPv6 SLAAC for IP-based media&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; - None for L2-only data planes&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="623" y="-163" width="363" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o9CsTTKS3lyjl3m2wJ2t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-193" y="3609" width="800" height="347" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
