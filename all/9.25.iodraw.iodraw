@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="1594" dy="1357" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2234" dy="1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -466,11 +466,14 @@
         <mxCell id="o9CsTTKS3lyjl3m2wJ2t-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_HMI.svg;" parent="1" vertex="1">
           <mxGeometry x="-224.92000000000002" y="4289" width="68" height="52.88" as="geometry" />
         </mxCell>
-        <mxCell id="Yx-VxaEQITDQ9WI9b41O-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=10;shape=mxgraph.networks.mail_server;" vertex="1" parent="1">
+        <mxCell id="Yx-VxaEQITDQ9WI9b41O-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=10;shape=mxgraph.networks.mail_server;" parent="1" vertex="1">
           <mxGeometry x="-257" y="3097" width="105" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="Yx-VxaEQITDQ9WI9b41O-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="1">
+        <mxCell id="Yx-VxaEQITDQ9WI9b41O-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" parent="1" vertex="1">
           <mxGeometry x="-105" y="3110" width="51.080000000000005" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="X8IVrg037KjspKZBHTqU-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="4971" width="68" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
