@@ -472,8 +472,8 @@
         <mxCell id="Yx-VxaEQITDQ9WI9b41O-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" parent="1" vertex="1">
           <mxGeometry x="-105" y="3110" width="51.080000000000005" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="X8IVrg037KjspKZBHTqU-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="4971" width="68" height="66" as="geometry" />
+        <mxCell id="z_-60X4EPw5uyzpNWPXI-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="181" y="4876" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
