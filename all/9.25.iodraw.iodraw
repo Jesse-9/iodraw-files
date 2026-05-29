@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="JAb_a6qE7xHiiNb_cCop">
-    <mxGraphModel dx="2234" dy="1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3668" dy="2472" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,37 +494,37 @@
           <mxGeometry x="338" y="5299" width="162" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-9" value="t &amp;lt; T?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-121" y="5115" width="108" height="108" as="geometry" />
+          <mxGeometry x="868" y="4338" width="108" height="108" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-10" value="返回存档E作为帕累托解集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-466" y="5296" width="247" height="49" as="geometry" />
+          <mxGeometry x="445" y="5027" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-11" value="二元锦标赛选择父代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-169" y="5296" width="205" height="49" as="geometry" />
+          <mxGeometry x="820" y="4519" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-12" value="亲和引导变异生成子代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-178" y="5395" width="222" height="49" as="geometry" />
+          <mxGeometry x="811" y="4618" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-13" value="对每个子代个体" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-154" y="5494" width="174" height="49" as="geometry" />
+          <mxGeometry x="835" y="4717" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-14" value="评估目标 F, 使用C2约束限制, 用非支配解更新存档 E" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-253" y="5593" width="218" height="84" as="geometry" />
+          <mxGeometry x="736" y="4816" width="218" height="84" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-15" value="所有子代处理完?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-151" y="5727" width="168" height="168" as="geometry" />
+          <mxGeometry x="838" y="4950" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-16" value="合并父代与子代池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="5968" width="190" height="49" as="geometry" />
+          <mxGeometry x="827" y="5191" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-17" value="非支配排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-137" y="6067" width="140" height="49" as="geometry" />
+          <mxGeometry x="852" y="5290" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-18" value="选择最优P个个体作为下一代" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="6166" width="247" height="67" as="geometry" />
+          <mxGeometry x="799" y="5389" width="247" height="67" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-19" value="t = t + 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-46" y="6283" width="117" height="49" as="geometry" />
+          <mxGeometry x="943" y="5506" width="117" height="49" as="geometry" />
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-2" target="z_-60X4EPw5uyzpNWPXI-3">
           <mxGeometry relative="1" as="geometry">
@@ -576,7 +576,7 @@
         <mxCell id="z_-60X4EPw5uyzpNWPXI-28" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-9" target="z_-60X4EPw5uyzpNWPXI-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-343" y="5260" />
+              <mxPoint x="568" y="4991" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -598,22 +598,22 @@
         <mxCell id="z_-60X4EPw5uyzpNWPXI-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-13" target="z_-60X4EPw5uyzpNWPXI-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-144" y="5568" />
+              <mxPoint x="845" y="4791" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-14" target="z_-60X4EPw5uyzpNWPXI-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-144" y="5702" />
+              <mxPoint x="845" y="4925" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-34" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0;entryX=0.72;entryY=1;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-15" target="z_-60X4EPw5uyzpNWPXI-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10" y="5702" />
-              <mxPoint x="10" y="5568" />
+              <mxPoint x="999" y="4925" />
+              <mxPoint x="999" y="4791" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -635,15 +635,15 @@
         <mxCell id="z_-60X4EPw5uyzpNWPXI-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.16;entryY=0;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-18" target="z_-60X4EPw5uyzpNWPXI-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-67" y="6258" />
+              <mxPoint x="922" y="5481" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="z_-60X4EPw5uyzpNWPXI-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=0;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="z_-60X4EPw5uyzpNWPXI-19" target="z_-60X4EPw5uyzpNWPXI-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="105" y="6258" />
-              <mxPoint x="105" y="5260" />
+              <mxPoint x="1094" y="5481" />
+              <mxPoint x="1094" y="4483" />
             </Array>
           </mxGeometry>
         </mxCell>
